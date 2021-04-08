@@ -4,5 +4,5 @@ import { useCanvas } from './canvasContext'
 export const ClearCanvasButton = () => {
   const { clearCanvas } = useCanvas()
 
-  return <button onClick={clearCanvas}>Очистить</button>
+  return <button onClick={clearCanvas}>Delete</button>
 }
