@@ -67,4 +67,4 @@ export const CanvasProvider = ({ children }) => {
   );
 };
 
-export const useCanvas = () => useContext(canvasContext);
+export const useCanvas = () => useContext(CanvasContext);
