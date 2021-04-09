@@ -10,7 +10,7 @@ ReactDOM.render(
       <App />
     </CanvasProvider>
   </React.StrictMode>,
-  document.getElementById("roo")
+  document.getElementById("root")
 );
 
 // If you want to start measuring performance in your app, pass a function
