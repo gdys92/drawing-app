@@ -2,7 +2,7 @@
 import './App.css';
 import React from 'react'
 import { Canvas } from './Canvas'
-import { ClearCanvasButton } from './ClearCanvasButton';
+import { ClearCanvasButto } from './ClearCanvasButton';
 
 function App() {
   return (
